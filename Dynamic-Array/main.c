@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <string.h>
 #include "vector.h"
 
 #define CMD_LENGTH 20

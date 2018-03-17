@@ -115,5 +115,7 @@ fabric.properties
 
 .idea/
 
+CMakeLists.txt
+main
 
 # End of https://www.gitignore.io/api/c,clion+all
